@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sparah
 - 👀 I’m interested in learning whatever is interesting to me!
-- 🌱 I’m currently learning UE4, C++, and Java!
+- 🌱 I’m currently learning Unreal Engine and C++!
 - 📫 You can contact me on discord, @sparah.
 
 <!---
